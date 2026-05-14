@@ -1,5 +1,3 @@
-# PLAN
-
 REQUEST.md과 INTERVIEW.md(Optional) 파일을 읽고 구현 계획을 PLAN.md 파일에 작성한다.
 
 ## 주의사항

@@ -1,5 +1,3 @@
-# Request
-
 사용자가 입력한 메세지를 REQUEST.md 파일에 작성한다.
 
 

@@ -1,5 +1,3 @@
-# Interview
-
 REQUEST.md 파일을 읽고 모든 측면에 대해 공유된 이해에 도달할 때까지 사용자를 인터뷰 한다.
 인터뷰 종료 시 내용을 INTERVIEW.md에 작성한다.
 
